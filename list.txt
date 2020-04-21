@@ -1,0 +1,22 @@
+! Title: Lemon's Ad Block Filters
+! Expires: 24 hours
+! Description: Simple filters for Simple Fixes
+! Homepage: https://github.com/justalemon/AdBlockList
+! Licence: https://github.com/justalemon/AdBlockList/blob/master/LICENSE
+
+! Battle.net
+battle.net##.read-only-forums.announcement
+
+! Outlook
+outlook.live.com##._3_hHr3kfEhbNYRFM5YJxH9
+
+! Fandom (previously Wikia)
+fandom.com##.WikiaTopAdsInner
+fandom.com##.home-top-right-ads
+fandom.com##.featured-video
+
+! Nexus Mods
+nexusmods.com##.ads
+nexusmods.com##.premium-block
+nexusmods.com##.video-ad
+nexusmods.com##.rj-vortex
