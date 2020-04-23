@@ -20,3 +20,9 @@ nexusmods.com##.ads
 nexusmods.com##.premium-block
 nexusmods.com##.video-ad
 nexusmods.com##.rj-vortex
+
+! GitHub
+github.com##.signup-prompt-bg
+
+! PyPI Test
+test.pypi.org##.notification-bar--warning
