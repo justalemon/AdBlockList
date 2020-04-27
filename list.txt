@@ -26,3 +26,7 @@ github.com##.signup-prompt-bg
 
 ! PyPI Test
 test.pypi.org##.notification-bar--warning
+
+! CFX Collective
+servers.fivem.net##.ad
+servers.redm.gg##.ad
