@@ -21,6 +21,9 @@ nexusmods.com##.premium-block
 nexusmods.com##.video-ad
 nexusmods.com##.rj-vortex
 
+! 5mods
+gta5-mods.com##.ad-above-mod-dl-btn
+
 ! GitHub
 github.com##.signup-prompt-bg
 
