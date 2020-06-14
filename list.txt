@@ -33,3 +33,7 @@ test.pypi.org##.notification-bar--warning
 ! CFX Collective
 servers.fivem.net##.ad
 servers.redm.gg##.ad
+
+! NuGet
+nuget.org##.banner-info
+nuget.org##.banner-blm
