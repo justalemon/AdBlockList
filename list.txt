@@ -7,9 +7,6 @@
 ! Battle.net
 battle.net##.read-only-forums.announcement
 
-! Outlook
-outlook.live.com##._3_hHr3kfEhbNYRFM5YJxH9
-
 ! Fandom (previously Wikia)
 fandom.com##.WikiaTopAdsInner
 fandom.com##.home-top-right-ads
