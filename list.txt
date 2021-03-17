@@ -37,3 +37,11 @@ servers.redm.gg##.ad
 ! NuGet
 nuget.org##.banner-info
 nuget.org##.banner-blm
+
+! Crunchyroll
+! Anoying "Temporada de Invierno 2021 de Crunchyroll" (Winter Season 2021 of Crunchyroll, unknown if also present on other regions)
+! This probably also disables the Princess Connect Re Dive ads
+! Affects the Main Page and area between Player and Comments
+www.crunchyroll.com##.game-banner-wrapper
+! As the name says, the marketing banner shown on the top (above the anime title and under nav)
+www.crunchyroll.com###marketing_banner
