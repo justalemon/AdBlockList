@@ -42,3 +42,5 @@ nuget.org##.banner-blm
 www.crunchyroll.com##.game-banner-wrapper
 ! As the name says, the marketing banner shown on the top (above the anime title and under nav)
 www.crunchyroll.com###marketing_banner
+! Message Box suggesting recent Anime on top of the Current Anime NName
+www.crunchyroll.com###message_box
